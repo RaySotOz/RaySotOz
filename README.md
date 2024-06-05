@@ -13,7 +13,7 @@
 - <b>Intelligent robotic arm INMOOV as an alternative for amputees and phocomelia</b>
   - [Further Description](https://github.com/RaySotOz/InMoovTH)
 - <b>Electromagnetic elbow prosthesis</b>
-  - [Further Description](https://github.com/RaySotOz/InMoovTH)
+  - [Further Description](https://github.com/RaySotOz/EletromagneticElbow)
 - <b>Wheelchair prototype controlled by EOG</b>
   - [Further Description](https://github.com/RaySotOz/Wheelchair)
 - <b>Light pedestrian detector</b>
