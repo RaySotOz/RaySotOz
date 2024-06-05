@@ -5,7 +5,7 @@
 - <b>Rehabilitation platform for upper limb amputees</b>
   - [Further Description](https://github.com/RaySotOz/RehabilitationPlatform)
 - <b>Upper limb exoskeleton for paraplegic child</b>
-  - [Further Description](https://github.com/RaySotOz/Exoskeleton))
+  - [Further Description](https://github.com/RaySotOz/Exoskeleton)
 - <b>Parallel robot simulator</b>
   - [Further Description](https://github.com/RaySotOz/ParallelRobot)
 - <b>3D scanning of ear and AR display for ear malformation people</b>
