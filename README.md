@@ -5,17 +5,17 @@
 - <b>Rehabilitation platform for upper limb amputees</b>
   - [Further Description](https://github.com/RaySotOz/RehabilitationPlatform)
 - <b>Upper limb exoskeleton for paraplegic child</b>
-  - [Further Description](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [Further Description](https://github.com/RaySotOz/Exoskeleton))
 - <b>Parallel robot simulator</b>
-  - [Further Description](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Further Description](https://github.com/RaySotOz/ParallelRobot)
 - <b>3D scanning of ear and AR display for ear malformation people</b>
-  - [Further Description](https://github.com/joshmadakor1/EncrypterPOC)
+  - [Further Description](https://github.com/RaySotOz/EarMalformation)
 - <b>Intelligent robotic arm INMOOV as an alternative for amputees and phocomelia</b>
-  - [Further Description](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Further Description](https://github.com/RaySotOz/InMoovTH)
 - <b>Wheelchair prototype controlled by EOG</b>
-  - [Further Description](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Further Description](https://github.com/RaySotOz/Wheelchair)
 - <b>Light pedestrian detector</b>
-  - [Further Description](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Further Description](https://github.com/RaySotOz/Pedestriandetector)
     
 <h2> 🤳 Connect with me:</h2>
 
