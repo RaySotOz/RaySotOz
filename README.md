@@ -21,7 +21,7 @@
 - <b>VR neuroscience</b>
   - [Further Description](https://github.com/RaySotOz/VRNeuroscience/)
 - <b>VR surgical instruments interaction</b>
-  - [Further Description](https://github.com/RaySotOz/Pedestriandetector)
+  - [Further Description](https://github.com/RaySotOz/VRSurgicalInstrumentsInteraction)
     
 <h2> 🤳 Connect with me:</h2>
 
