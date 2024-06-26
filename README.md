@@ -18,6 +18,10 @@
   - [Further Description](https://github.com/RaySotOz/Wheelchair)
 - <b>Light pedestrian detector</b>
   - [Further Description](https://github.com/RaySotOz/Pedestriandetector)
+- <b>VR neuroscience</b>
+  - [Further Description](https://github.com/RaySotOz/VRNeuroscience/)
+- <b>VR surgical instruments interaction</b>
+  - [Further Description](https://github.com/RaySotOz/Pedestriandetector)
     
 <h2> 🤳 Connect with me:</h2>
 
